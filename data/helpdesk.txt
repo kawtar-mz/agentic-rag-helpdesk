@@ -1,0 +1,49 @@
+Un ordinateur lent peut être amélioré en fermant les applications inutiles, en nettoyant le disque dur et en redémarrant l’ordinateur régulièrement.
+
+Si votre ordinateur met beaucoup de temps à démarrer, cela peut être dû à trop de programmes qui se lancent automatiquement.
+
+Pour réinitialiser un mot de passe, cliquez sur "Mot de passe oublié" sur la page de connexion et suivez les instructions envoyées par email.
+
+Une erreur 404 signifie que la page demandée n’existe pas ou plus sur le site.
+
+Une erreur 500 indique qu’un problème est survenu du côté du serveur, ce n’est pas forcément lié à votre appareil.
+
+Si Internet ne fonctionne pas, essayez de redémarrer votre box ou votre routeur, puis reconnectez-vous au réseau Wi-Fi.
+
+Si le Wi-Fi est lent, rapprochez-vous du routeur ou déconnectez les appareils inutiles.
+
+Pour installer un logiciel, téléchargez-le uniquement depuis le portail d'entreprise.
+
+Si votre ordinateur affiche un message d’erreur, essayez de le redémarrer avant toute autre action.
+
+Pour libérer de l’espace disque, supprimez les fichiers inutiles et videz la corbeille.
+
+Si un ordinateur ne s’allume pas, vérifiez que le câble d’alimentation est bien branché et que la batterie n’est pas vide.
+
+Si l’écran externe reste noir, vérifiez que l’écran est allumé et connecté correctement à l’ordinateur.
+
+Pour améliorer la performance, pensez à mettre à jour régulièrement votre système et vos logiciels.
+
+Si une application se bloque, essayez de la fermer puis de la rouvrir.
+
+Si vous avez oublié votre mot de passe Wi-Fi, vous pouvez le retrouver sur l’étiquette de votre routeur.
+
+Lorsque vous téléchargez un fichier, vérifiez sa source pour éviter les logiciels malveillants.
+
+Un clavier ou une souris qui ne fonctionne pas peut souvent être réparé en les débranchant puis rebranchant.
+
+Si votre ordinateur chauffe beaucoup, évitez de bloquer les grilles d’aération
+
+Pour envoyer un email, assurez-vous d’être connecté à Internet et que l’adresse du destinataire est correcte.
+
+Si un site ne s’ouvre pas, essayez un autre navigateur ou actualisez la page.
+
+Un message "espace insuffisant" signifie que votre disque dur est presque plein.
+
+Pensez à sauvegarder vos données importantes régulièrement pour éviter toute perte.
+
+Redémarrer régulièrement votre appareil permet de corriger certains problèmes simples.
+
+Si un logiciel ne fonctionne pas correctement, vérifiez s’il existe une mise à jour.
+
+Pour une meilleure sécurité, utilisez des mots de passe complexes et ne les partagez pas.
